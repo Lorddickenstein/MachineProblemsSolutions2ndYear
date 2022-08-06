@@ -1,5 +1,3 @@
-package machineProblem2pkg;
-
 /*
  * 
  * Classes: 

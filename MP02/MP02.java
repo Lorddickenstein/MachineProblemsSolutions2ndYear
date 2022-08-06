@@ -1,4 +1,3 @@
-package machineProblem2pkg;
 /**
  *
  * @author John Ramil Reyes
