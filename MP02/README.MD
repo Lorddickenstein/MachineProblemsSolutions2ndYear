@@ -1,7 +1,9 @@
 ## Addition with Linked List
 
 <div align="center">
-	<img src="images/img.png">
+	<a href='https://github.com/Lorddickenstein/MachineProblemsSolutions2ndYear/tree/main/MP02'>
+		<img src="images/img.jpg">
+	</a>
 </div>
 
 In most personal computers, the largest integer is 32,767 and the largest long integer is 2,147,483,647.  Some applications, such as the national debt, may require an unbounded integer.  One way to store and manipulate integers of unlimited size is by using a linked list. Each digit is stored in a node of the list.  For example, the figure below shows how we could store a five-digit number in a linked list.
@@ -17,17 +19,23 @@ Write a program to add two integer linked lists. Design your solution so that th
 Enter two very large numbers.
 
 <div align="center">
-	<img src="images/inputs.png">
+	<a href='https://github.com/Lorddickenstein/MachineProblemsSolutions2ndYear/tree/main/MP02'>
+		<img src="images/inputs.png">
+	</a>
 </div>
 
 It will show the number of digits of each input and the sum of the two as a linked list.
 
 <div align="center">
-	<img src="images/inputs2.png">
+	<a href='https://github.com/Lorddickenstein/MachineProblemsSolutions2ndYear/tree/main/MP02'>
+		<img src="images/inputs2.png">
+	</a>
 </div>
 
 Verified by a calculator.
 
 <div align="center">
-	<img src="images/calc.png">
+	<a href='https://github.com/Lorddickenstein/MachineProblemsSolutions2ndYear/tree/main/MP02'>
+		<img src="images/calc.png">
+	</a>
 </div>
